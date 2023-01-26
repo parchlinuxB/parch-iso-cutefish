@@ -19,6 +19,10 @@ jobs:
       options: --privileged
     steps:
       - uses: actions/checkout@v3
+      - name: print variable
+        run: |
+          echo $name
+          echo $release_name
       - name: Install Packages via Pacman
         run: pacman -Sy; pacman --noconfirm -S git archiso python python-pip
       - name: Install Python packages via pip
