@@ -154,6 +154,8 @@ neofetch
 keepassxc
 octopi-git
 geany
+gwenview
+okular
 
 #parchlinuxstuff
 calamares
@@ -164,4 +166,5 @@ parch-branding
 parch-pacman
 parch-os-wallpapers
 parch-emoji-ios
-parch-sddm
+parch-dorood
+warpinator
