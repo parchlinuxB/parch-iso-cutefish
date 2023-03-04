@@ -29,7 +29,6 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
-falkon
 fsarchiver
 git
 gnu-netcat
@@ -143,8 +142,10 @@ sddm
 cutefish-cursor-themes-git
 sddm-theme-astronaut
 cutefish-gtk-themes-git
-#plasma-pa 
+plasma-pa 
 plasma-nm
+konsole
+chromium
 
 #systemutils
 btop
@@ -155,6 +156,7 @@ keepassxc
 geany
 gwenview
 okular
+mpv
 
 #parchlinuxstuff
 calamares
@@ -165,5 +167,5 @@ parch-branding
 parch-pacman
 parch-os-wallpapers
 parch-emoji-ios
-parch-dorood
 warpinator
+estedad-fonts
