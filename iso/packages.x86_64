@@ -93,7 +93,6 @@ pv
 python
 python-psutil
 python-systemd
-qemu-guest-agent
 refind
 #reflector
 reiserfsprogs
@@ -157,6 +156,7 @@ geany
 gwenview
 okular
 mpv
+ibus
 
 #parchlinuxstuff
 calamares
