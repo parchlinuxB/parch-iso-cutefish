@@ -144,7 +144,7 @@ cutefish-gtk-themes-git
 plasma-pa
 plasma-nm
 konsole
-chromium
+firefox
 
 #systemutils
 btop
@@ -157,6 +157,9 @@ gwenview
 okular
 mpv
 ibus
+parch-firefox-config
+ttf-ms-fonts
+motrix-bin
 
 #parchlinuxstuff
 calamares
@@ -169,3 +172,4 @@ parch-os-wallpapers
 parch-emoji-ios
 warpinator
 estedad-fonts
+vazirmatn-fonts
