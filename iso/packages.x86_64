@@ -134,6 +134,9 @@ zsh
 archlinux-keyring
 openssl-1.1
 openssl
+android-file-transfer
+gvfs-mtp
+broadcom-wl-dkms
 
 #Desktop
 cutefish
