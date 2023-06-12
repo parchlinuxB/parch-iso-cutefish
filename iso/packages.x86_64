@@ -94,6 +94,7 @@ pv
 python
 python-psutil
 python-systemd
+qterminal
 refind
 #reflector
 reiserfsprogs
