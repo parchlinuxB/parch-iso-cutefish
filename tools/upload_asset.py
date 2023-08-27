@@ -43,7 +43,7 @@ if not (repo_name and api_key and release_name):
 
 gh = Github(api_key)
 print(repo_name, api_key)
-repo = gh.get_repo(f"parchlinuxb/{repo_name}")
+repo = gh.get_repo(f"parchlinuxB/{repo_name}")
 
 release = repo.get_release(release_name)
 
