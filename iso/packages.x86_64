@@ -147,6 +147,7 @@ xfsprogs
 xl2tpd
 xorg-server
 xorg-twm
+boost
 xorg-xinit
 zsh
 archlinux-keyring
@@ -200,10 +201,8 @@ juk
 #parchlinuxstuff
 calamares
 parch-grub
-parch-dorood
-python-pyqt6
-qt6-base
-parchlinux-cala-config
+parch-welcome
+calamares-parch
 os-prober
 paru
 parch-branding
@@ -212,3 +211,4 @@ parch-os-wallpapers
 parch-emoji-ios
 estedad-fonts
 vazirmatn-fonts
+parch-grub
