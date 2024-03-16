@@ -1,14 +1,13 @@
 alsa-utils
-ark
 amd-ucode
 arch-install-scripts
-#archinstall
+archinstall
 b43-fwcutter
 base
 base-devel
 bind
 brltty
-#broadcom-wl
+broadcom-wl-dkms
 btrfs-progs
 clonezilla
 cloud-init
@@ -44,22 +43,6 @@ intel-ucode
 #ipw2100-fw
 #ipw2200-fw
 irssi
-pipewire
-pipewire-pulse
-gst-plugin-pipewire
-libpipewire
-pipewire-alsa
-pipewire-audio
-pipewire-ffado
-pipewire-jack
-pipewire-media-session
-pipewire-roc
-pipewire-v4l2
-pipewire-x11-bell
-pipewire-zeroconf
-alsa-ucm-conf
-dkms
-sof-firmware
 iw
 iwd
 jfsutils
@@ -96,7 +79,6 @@ nmap
 ntfs-3g
 nvme-cli
 open-iscsi
-open-vm-tools
 openconnect
 openssh
 openvpn
@@ -110,7 +92,6 @@ pv
 python
 python-psutil
 python-systemd
-qterminal
 refind
 #reflector
 reiserfsprogs
@@ -147,15 +128,17 @@ xfsprogs
 xl2tpd
 xorg-server
 xorg-twm
-boost
 xorg-xinit
 zsh
 archlinux-keyring
 openssl-1.1
 openssl
-android-file-transfer
+gvfs
 gvfs-mtp
-broadcom-wl-dkms
+networkmanager
+android-file-transfer
+
+
 
 #Desktop
 sddm
@@ -166,6 +149,8 @@ plasma-pa
 plasma-nm
 konsole
 firefox
+
+
 
 #cutefish-desktop
 cutefish-calculator
@@ -183,32 +168,17 @@ cutefish-wallpapers
 konsole
 parch-cutefish-fix
 
+
 #systemutils
 btop
 xdg-user-dirs
 packagekit-qt5
 neofetch-git
-keepassxc
-leafpad
-gwenview
-okular
-mpv
-parch-mpv
-ibus
-ttf-dejavu
-juk
 
-#parchlinuxstuff
-calamares
-parch-grub
-parch-welcome
-calamares-parch
+#ParchLinux Core Packages
 os-prober
 paru
+parch-emoji-ios
+vazirmatn-fonts
 parch-branding
 parch-pacman
-parch-os-wallpapers
-parch-emoji-ios
-estedad-fonts
-vazirmatn-fonts
-parch-grub
