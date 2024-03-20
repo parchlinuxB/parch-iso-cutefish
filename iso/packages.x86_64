@@ -141,7 +141,7 @@ calamares
 calamares-parch
 boost
 boost-libs
-
+device-mapper
 
 #Desktop
 sddm
